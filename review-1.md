@@ -1,9 +1,6 @@
 #¿Qué es mi producto y para que sirve?
-
-#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
-#¿Qué es mi producto y para que sirve?
-Es un servidor de lista de tareas creada con la librería de express, incorporando middlewares, que son funciones que permite a la aplicacíon hacerla más eficiciente y segura. Todo ello se construyó como una APIRESTful bajo el estilo de arquitectura REST.
-Sirve para crear, consultar, actualizar y eliminar tareas.
+Es un servidor de lista de tareas creada con la librería de express y la base de datos MongoDB para el almacenamiento de las mismas.
+Este aplicativo sirve para crear, consultar, actualizar y eliminar tareas en tiempo real.
 
 #¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
 Todas las funcionalidades son importantes (crear, consultar, actualizar y eliminar), pero los middlewares son las base de la aplicación, porque validan que los datos enviados sean corectos antes de ser procesados.
